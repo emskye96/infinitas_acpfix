@@ -1,0 +1,3 @@
+[submodule "subprojects/MinHook"]
+	path = subprojects/MinHook
+	url = https://github.com/aixxe/minhook.git
